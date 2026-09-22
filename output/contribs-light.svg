@@ -540,6 +540,9 @@
 <polygon points="631.47,240.57 642.75,244.67 631.47,248.78 620.20,244.67" fill="#40c463"/>
 <polygon points="620.20,262.67 620.20,244.67 631.47,248.78 631.47,266.78" fill="#38ac57"/>
 <polygon points="631.47,266.78 631.47,248.78 642.75,244.67 642.75,262.67" fill="#2f9149"/>
+<polygon points="657.78,240.57 669.06,244.67 657.78,248.78 646.51,244.67" fill="#40c463"/>
+<polygon points="646.51,262.67 646.51,244.67 657.78,248.78 657.78,266.78" fill="#38ac57"/>
+<polygon points="657.78,266.78 657.78,248.78 669.06,244.67 669.06,262.67" fill="#2f9149"/>
 <polygon points="605.16,240.57 616.44,244.67 605.16,248.78 593.89,244.67" fill="#30a14e"/>
 <polygon points="593.89,262.67 593.89,244.67 605.16,248.78 605.16,266.78" fill="#2a8d44"/>
 <polygon points="605.16,266.78 605.16,248.78 616.44,244.67 616.44,262.67" fill="#237739"/>
@@ -553,13 +556,13 @@
 <polygon points="567.57,272.25 567.57,254.25 578.85,258.35 578.85,276.35" fill="#38ac57"/>
 <polygon points="578.85,276.35 578.85,258.35 590.13,254.25 590.13,272.25" fill="#2f9149"/>
 <polygon points="592.01,272.93 603.28,277.04 592.01,281.14 580.73,277.04" fill="#ebedf0"/>
-<text x="697.25" y="14.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="34" font-weight="700" fill="#216e39">1,326</text>
+<text x="697.25" y="14.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="34" font-weight="700" fill="#216e39">1,348</text>
 <text x="697.25" y="26.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="10" fill="#59636e" letter-spacing="0.8">TOTAL CONTRIBUTIONS</text>
 <rect x="-92.09" y="203.18" width="12" height="36.11" rx="1" fill="#40c463"/>
 <text x="-86.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#59636e">S</text>
 <rect x="-76.09" y="185.30" width="12" height="54.00" rx="1" fill="#216e39"/>
 <text x="-70.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#59636e">M</text>
-<rect x="-60.09" y="198.75" width="12" height="40.54" rx="1" fill="#40c463"/>
+<rect x="-60.09" y="195.01" width="12" height="44.29" rx="1" fill="#40c463"/>
 <text x="-54.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#59636e">T</text>
 <rect x="-44.09" y="196.37" width="12" height="42.93" rx="1" fill="#40c463"/>
 <text x="-38.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#59636e">W</text>
